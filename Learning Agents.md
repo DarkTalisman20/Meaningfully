@@ -10,6 +10,9 @@ A Learning Agent has 4 major components -
 3) Critic - it provides feedback on current performance of the agent to the learning element.
 4) Problem Generator - suggests exploratory actions to the agents for the areas of behaviour in need of improvement.
 
+<img width="656" alt="Screenshot 2025-01-15 at 2 32 14 AM" src="https://github.com/user-attachments/assets/7cfcfbe8-70a8-4121-8c83-fc9266d3e5aa" />
+
+
 Designing of learning element highly depends design of the performance element. Given the agent design, learning mechanisms can be construced to improve every part of the agent. Hence, developing the performance element is the first step.
 
 Also, the performance standard should remain fixed for the critic to work on.
